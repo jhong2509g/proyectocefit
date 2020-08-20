@@ -1,3 +1,1 @@
-function F1036927314(){
-	alert("Emanuel Gómez Díaz")
-}
+function f1025642271();
